@@ -1,18 +1,119 @@
-# 💫 About Me:
-👋 Hey there! I'm a passionate learner exploring the world of programming.<br><br>💻 Currently learning new technologies and building projects to improve my skills.<br><br>🌱 Always curious, always learning, and always ready to try something new.<br><br>🚀 My goal is to turn creative ideas into real-world projects.<br><br>✨ Believe in consistency, creativity, and continuous growth.<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=200&section=header&text=Surjeet%20Maini&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="Surjeet Maini profile banner"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surjeetmaini8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surjeetmaini8@gmail.com) 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+intelligent+software+solutions;Exploring+AI%2FML+and+Generative+AI;Designing+reliable+backend+systems;Turning+ideas+into+working+projects" alt="Typing animation"/>
+</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=surjeetmaini8&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=surjeetmaini8&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=surjeetmaini8&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+
+<a href="https://github.com/Surjeetmaini8">
+<img src="https://komarev.com/ghpvc/?username=Surjeetmaini8&style=for-the-badge&color=302b63" alt="Profile views"/>
+</a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=surjeetmaini8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+Hi! I'm **Surjeet Maini**, a Computer Science undergraduate passionate about building useful software and intelligent systems.
+
+* 🎓 Pursuing a B.Tech in Computer Science and Engineering at Graphic Era Hill University.
+* 💻 Interested in Software Development Engineering and backend development.
+* 🤖 Exploring Machine Learning, Computer Vision, NLP, and Generative AI.
+* 🛠️ Enjoy building end-to-end applications that combine software engineering with AI.
+* 🏆 Won 2 hackathons and participated in multiple competitive events.
+* 🌱 Continuously improving my problem-solving and engineering skills.
+* 🎯 My goal is to build scalable software and practical AI-powered products.
+
+> *"Great software solves problems. Great engineering makes those solutions reliable."*
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" alt="Programming languages"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI and machine learning tools"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge" alt="Natural language processing"/>
+<img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge" alt="Retrieval augmented generation"/>
+</p>
+
+### 🌐 Web Development & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Web development and backend"/>
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,linux,SOLite" alt="Databases and developer tools"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+
+
+
+
+## 🎓 Education
+
+**Graphic Era Hill University**
+* B.Tech in Computer Science and Engineering
+8📍 Bhimtal, Uttarakhand
+* 📈 GPA: 8.7/10.0 · Expected graduation: June 2027
+
+**St. Mary's School, Gadarpur**
+* High School: 90.5%
+* Intermediate: 87%
+
+---
+
+## 🎯 Current Focus
+
+* 📚 Strengthening Data Structures and Algorithms.
+* 💻 Developing reliable backend systems and full-stack applications.
+* 🤖 Exploring deep learning, computer vision, NLP, and LLM applications.
+* 🗄️ Improving database design, SQL, and transaction management.
+* 🚀 Building practical projects that demonstrate both software engineering and AI/ML skills.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Surjeetmaini8">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:Surjeetmaini8@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn profile identifier -->
+
+<a href="https://www.linkedin.com/in/surjeetmaini8/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+**Open to learning, collaboration, and exciting engineering opportunities!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
