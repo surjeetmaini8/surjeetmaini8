@@ -9,8 +9,9 @@
 <br/>
 
 <a href="https://github.com/Surjeetmaini8">
-<img src="https://komarev.com/ghpvc/?username=Surjeetmaini8&style=for-the-badge&color=302b63" alt="Profile views"/>
-</a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Surjeetmaini8&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
