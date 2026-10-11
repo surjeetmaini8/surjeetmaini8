@@ -74,7 +74,7 @@ Hi! I'm **Surjeet Maini**, a Computer Science undergraduate passionate about bui
 
 **Graphic Era Hill University**
 * B.Tech in Computer Science and Engineering
-8📍 Bhimtal, Uttarakhand
+*📍 Bhimtal, Uttarakhand
 * 📈 GPA: 8.7/10.0 · Expected graduation: June 2027
 
 **St. Mary's School, Gadarpur**
